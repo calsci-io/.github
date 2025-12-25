@@ -82,8 +82,8 @@ Feel free to open issues or pull requests.
 ## 📫 Contact
 
 For collaborations, feedback, or questions:  
-📧 *[Add your official email]*  
-🌐 *[Website / LinkedIn / Project page]*
+📧 *sobik@calsci.io*  
+🌐 *calsci.io*
 
 ---
 
