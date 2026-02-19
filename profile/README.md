@@ -1,85 +1,33 @@
-# 🔬 CalSci
+# CalSci
 
-**CalSci** is a next-generation **scientific calculator and embedded computing platform** built on **ESP32** using **MicroPython**.  
-It combines the familiarity of a calculator with the flexibility of embedded systems, sensors, and cloud connectivity.
-
----
-
-## 🚀 What is CalSci?
-
-CalSci is designed for:
-- Engineering students  
-- Embedded systems learners  
-- Researchers and developers  
-
-It goes beyond traditional calculators by enabling **programmability, sensor integration, and IoT capabilities** in a calculator form factor.
+This is the official Github of CalSci.
 
 ---
 
-## ✨ Key Features
+## Softwares:
 
-- 🧮 **Scientific Calculator**
-  - Advanced mathematical operations
-  - Multi-app execution environment
-
-- ⚙️ **ESP32-Based Hardware**
-  - High-performance dual-core MCU
-  - Low-power operation
-
-- 🐍 **MicroPython Powered**
-  - Rapid development and easy customization
-  - Interactive REPL support
-
-- 📟 **Dedicated Display & Keypad**
-  - Physical calculator-style interface
-  - Optimized for fast user input
-
-- 🔌 **GPIO & Sensor Support**
-  - Connect external sensors
-  - Use CalSci as a sensor calibration tool
-
-- ☁️ **Cloud & IoT Ready**
-  - API integration
-  - Data logging and remote access
-
-- 🔄 **Modular Software Architecture**
-  - App-based design
-  - Easy to extend and upgrade
+- calsci_latest_itr
+- calsci_firmware
+- calsci_simulator
+- calsci_desktop_software
+- calsci_sdk_docs
 
 ---
 
-## 🧠 Why CalSci?
+### calsci_latest_itr
+This is the github repo which contains the code or we can say the default applications with the UI framework which natively runs on the CalSci and they all are written in micropython.
 
-Unlike traditional scientific calculators, CalSci is:
-- **Programmable**
-- **Extensible**
-- **Open for innovation**
+### calsci_firmware
+This is the github repo hosts the source code of the firmware of calsci which is a port of micropython, it's kind of like the operating system of calsci.
 
-It bridges the gap between **education, embedded systems, and real-world applications**.
+### calsci_simulator
+This repo hosts the source code of calsci simulator, you can say a virtual calsci on your desktop. Its written in pygame library of python.
 
----
+### calsci_desktop_software
+This repo has the source code of the desktop app of calsci which we use in its development process. Its written in pyside6 library if python.
 
-## 📌 Project Status
-
-- Hardware: 🛠️ In active development  
-- Firmware: 🧪 Prototyping & optimization  
-- Enclosure: 🧩 Injection-molded design planned  
-
----
-
-## 🤝 Contributing
-
-We welcome:
-- Feature ideas  
-- Bug reports  
-- Firmware improvements  
-- Documentation contributions  
-
-Feel free to open issues or pull requests.
-
----
-
-## 📫 Contact
+### calsci_sdk_docs
+This is the repo which hosts the documentation of the software development kit of calsci responsible for building new apps in calsci.
 
 For collaborations, feedback, or questions:  
 📧 *sobik@calsci.io*  
@@ -87,4 +35,4 @@ For collaborations, feedback, or questions:
 
 ---
 
-> **CalSci — Redefining what a scientific calculator can do.**
+> **CalSci — Happy Coding.**
