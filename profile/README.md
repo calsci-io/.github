@@ -4,13 +4,13 @@ This is the official Github of CalSci.
 
 ---
 
-## Softwares:
+## Repositories:
 
-- calsci_latest_itr
-- calsci_firmware
-- calsci_simulator
-- calsci_desktop_software
-- calsci_sdk_docs
+- [calsci_latest_itr](https://github.com/calsci-io/calsci_latest_itr)
+- [calsci_firmware](https://github.com/calsci-io/CalSci_firmware)
+- [calsci_simulator](https://github.com/calsci-io/calsci_simulator)
+- [calsci_desktop_software](https://github.com/calsci-io/CalSci_Desktop_Software)
+- [calsci_sdk_docs](https://github.com/calsci-io/calsci_sdk_docs)
 
 ---
 
